@@ -72,7 +72,7 @@ export default function App() {
         <Meta />
         <meta httpEquiv="x-ua-compatible" content="Muthukumar"></meta>
         <meta property="og:site_name" content="muthukumar.dev"></meta>
-        <meta property="og:title" content="ie=edge"></meta>
+        <meta property="og:title" content="Muthukumar"></meta>
         <meta
           property="og:description"
           content="Frontend developer, blogger, and Remix lover, living in Tamil Nadu."
