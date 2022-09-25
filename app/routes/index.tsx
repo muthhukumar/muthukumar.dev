@@ -1,7 +1,13 @@
 export default function Index() {
   return (
-    <main className="relative h-screen bg-white sm:flex sm:items-center sm:justify-center">
-      <h1 className="font-bold text-xl">Hi! there, I'm Muthukumar.</h1>
+    <main className="p-4 h-screen bg-white">
+      <p className="text-center text-lg">
+        Hey, I'm Muthukumar. I'm a frontend developer, blogger and{" "}
+        <a href="https://remix.run" target={"_blank"} rel="noreferrer">
+          Remix
+        </a>{" "}
+        lover.
+      </p>
     </main>
   );
 }
